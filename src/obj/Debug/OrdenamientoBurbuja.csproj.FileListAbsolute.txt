@@ -1,0 +1,6 @@
+E:\Lau\Ordenamientos\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe.config
+E:\Lau\Ordenamientos\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe
+E:\Lau\Ordenamientos\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.pdb
+E:\Lau\Ordenamientos\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csprojAssemblyReference.cache
+E:\Lau\Ordenamientos\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.exe
+E:\Lau\Ordenamientos\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.pdb
